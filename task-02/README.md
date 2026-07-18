@@ -159,13 +159,9 @@ These results indicate that students performing well in one subject generally pe
 
 ## ▶️ How to Run
 
-1. Clone the repository
-
-```
-git clone https://github.com/yourusername/your-repository.git
-```
-
-2. Install dependencies
+1. Download the files from the repository
+2. 
+3. Install dependencies
 
 ```
 pip install pandas numpy matplotlib seaborn
